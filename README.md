@@ -96,12 +96,15 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&ring_color=8b5cf6&border_color=30363d&include_all_commits=true&count_private=true" width="430" alt="DANY's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&border_color=30363d" width="430" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&ring_color=8b5cf6&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=600&token=YOUR_PERSONAL_TOKEN" width="430" alt="DANY's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&border_color=30363d&cache_seconds=600&token=YOUR_PERSONAL_TOKEN" width="430" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danycli&theme=react-dark&bg_color=00000000&hide_border=true&area=true&title_color=8b5cf6&color=8b5cf6&line=8b5cf6&point=8b5cf6" width="860" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danycli&theme=react-dark&bg_color=00000000&hide_border=true&area=true&title_color=8b5cf6&color=8b5cf6&line=8b5cf6&point=8b5cf6&cache_seconds=600" width="860" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
