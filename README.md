@@ -78,17 +78,14 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=tokyonight" height="150" alt="Stats Card" />
+  <img src="https://gh-stats-personal.vercel.app/api?username=danycli&show_icons=true&theme=tokyonight" height="150" alt="Stats Card" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=tokyonight" height="150" alt="Languages Card" />
-
+  <img src="https://gh-stats-personal.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=tokyonight" height="150" alt="Languages Card" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danycli&theme=react-dark&area=true&color=8b5cf6&line=8b5cf6" width="100%" alt="Activity Graph" />
 </div>
----
 
 ### 🤝 Connect With Me
 
