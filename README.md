@@ -16,121 +16,88 @@
 
 </div>
 
----
-
 <div align="center">
 
-  <!-- Cool Badge Row -->
-  <img src="https://img.shields.io/badge/Clean%20Code-Always-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Designs-🎨-ff69b4?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learner-🔥-orange?style=for-the-badge&logo=github&logoColor=white" />
+# 🚀 SAHIBZADA DANIAL AHMED
+**Software Engineering Student @ COMSATS Abbottabad**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;C+Systems+Specialist;Creative+UI+Designer;Problem+Solver)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expertise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Systems_Level-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-OOP_&_Swing-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Creative-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+### ⚡ About Me
 
-  <p>
-    🚀 Focused on building <b>efficient, minimal & beautiful solutions</b> <br/>
-    ✨ Blending <b>logic & design</b> into real-world projects <br/>
-    🌱 Always curious, always learning  
-  </p>
+I am a Computer Science student with a strong command of **Object-Oriented Programming** and **System-Level Logic**. My primary focus is building robust applications using **Java** and **C**, while my creative side ensures those applications look modern and intuitive.
 
+* 💻 **Core Stack:** Proficient in Java (Swing, OOP) and C language.
+* 🎨 **Creative Edge:** I don't just write code; I design interfaces (UI/UX) and visuals.
+* 🧠 **Mindset:** Logic-first thinker — creating efficient, modular, and scalable solutions.
+* 🌱 **Currently Learning:** Backend automation, Deployment pipelines, and Advanced Data Structures.
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Primary Languages (The Heavy Hitters)**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" />
 </div>
 
+**Web & Design (The Creative Side)**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps&theme=dark" />
+</div>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<br>
-
-
-
+**Tools & Environment**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse&theme=dark" />
+</div>
 
 ---
 
-##  About Me
+### 📂 Featured Projects
 
-I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic and design. Whether it's writing modular code or crafting digital visuals, I aim for simplicity, clarity, and efficiency.
-
-- CS student @ COMSATS Abbottabad  
-- Focused on clean, modular programming  
-- Content creator — emulator tweaking. 
-- Designer of thumbnails, banners, layouts  
-- Logic-first thinker — clarity over complexity  
-- Exploring backend development, automation, and deployment  
+| Project | Description & Tech Stack |
+| :--- | :--- |
+| **CricScore Management System** | A comprehensive digital scoreboard built using **Advanced Java OOP**. Features include real-time score tracking, player stats management, and match history. <br>🔹 *Tech:* Java, Swing GUI, File Handling, OOP Patterns. |
+| **Advanced OOP Calculator** | A fully functional scientific calculator with a modern UI. Implemented using **polymorphism and inheritance** to handle complex operations seamlessly. <br>🔹 *Tech:* Java, Swing, Event Handling. |
+| **Islamic Inheritance Calculator** | A logic-heavy application implementing fixed share logic and *Awl* cases based on Hamid Khan’s legal frameworks. <br>🔹 *Tech:* C++, Logic Algorithms. |
+| **CLI Music Player** | A lightweight, memory-efficient music player inspired by Spotify's functionality, running entirely in the terminal. <br>🔹 *Tech:* C, Data Structures. |
 
 ---
 
-##  Tech Stack
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-</p>
+<div align="center">
 
----
-
-##  Projects
-
-- **Snake and Ladder Game** — I try to make user friendly interface and the game is cli based.
-- **Islamic Inheritance Calculator** — Implements fixed share logic, Awl cases based on Hamid Khan’s book.
-- **Music Player** — Build a very basic music player in C inspired from Spotify
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&ring_color=8b5cf6&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=600&token=YOUR_PERSONAL_TOKEN" width="430" alt="DANY's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=tokyonight" height="150" alt="Stats Card" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=midnight-purple&border_radius=20&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&border_color=30363d&cache_seconds=600&token=YOUR_PERSONAL_TOKEN" width="430" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=tokyonight" height="150" alt="Languages Card" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danycli&theme=react-dark&bg_color=00000000&hide_border=true&area=true&title_color=8b5cf6&color=8b5cf6&line=8b5cf6&point=8b5cf6&cache_seconds=600" width="860" alt="GitHub Activity Graph" />
-</p>
+</div>
 
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danycli&theme=react-dark&area=true&color=8b5cf6&line=8b5cf6" width="100%" alt="Activity Graph" />
+</div>
 ---
-##  Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/un_available_ds/?hl=en">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SAHIBZADA-DANY">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Danial_Ahmed/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/31141394/danycli">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="35" height="35" />
-  </a>
-</p>
----
+### 🤝 Connect With Me
+
+<div align="center">
+
+| **LinkedIn** | **GitHub** | **LeetCode** | **StackOverflow** | **Instagram** |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"></a> | <a href="https://github.com/SAHIBZADA-DANY"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"></a> | <a href="https://leetcode.com/u/Danial_Ahmed/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"></a> | <a href="https://stackoverflow.com/users/31141394/danycli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30"></a> | <a href="https://www.instagram.com/un_available_ds/?hl=en"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"></a> |
+
+</div>
 
 <p align="center"><i>Code smart. Design smart. Think clearly.</i></p>
