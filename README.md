@@ -30,7 +30,7 @@
 
 I am a Computer Science student with a strong command of **Object-Oriented Programming** and **System-Level Logic**. My primary focus is building robust applications using **Java** and **C**, while my creative side ensures those applications look modern and intuitive.
 
-* 💻 **Core Stack:** Proficient in Java (Swing, OOP) and C language.
+* 💻 **Core Stack:** Proficient in Java (Swing, OOP) and C language. 
 * 🎨 **Creative Edge:** I don't just write code; I design interfaces (UI/UX) and visuals.
 * 🧠 **Mindset:** Logic-first thinker — creating efficient, modular, and scalable solutions.
 * 🌱 **Currently Learning:** Backend automation, Deployment pipelines, and Advanced Data Structures.
