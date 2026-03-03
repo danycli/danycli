@@ -55,17 +55,15 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 </div>
 
 ---
+## 📂 Featured Projects
 
-### 📂 Featured Projects
+| Project                               | Description & Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CricScore Management System**       | A comprehensive digital scoreboard built using **Advanced Java OOP**. Features include real-time score tracking, player stats management, and match history. <br>🔹 *Tech:* Java, Swing GUI, File Handling, OOP Patterns                                                                                                                                                                                                                                            |
+| **Advanced OOP Calculator**           | A fully functional scientific calculator with a modern UI. Implemented using **polymorphism and inheritance** to handle complex operations seamlessly. <br>🔹 *Tech:* Java, Swing, Event Handling                                                                                                                                                                                                                                                                   |
+| **Islamic Inheritance Calculator**    | A logic-intensive application implementing fixed share distribution and *Awl* cases based on Hamid Khan’s legal framework. Designed with modular architecture and validated edge-case handling. <br>🔹 *Tech:* C++, Algorithms, Structured Logic                                                                                                                                                                                                                    |
+| **Pac-Man JavaFX Game (Open Source)** | A fully functional arcade-style Pac-Man desktop game built using **JavaFX**. Includes a ready-to-run installer for non-programmers and a complete open-source codebase for developers. Features score tracking, diamond economy system, in-game store, custom skins, enemy AI, smooth movement system, persistent save management, and custom UI styling using Minecrafter_Alt font. <br>🔹 *Tech:* Java, JavaFX, OOP, File I/O, Event Handling, Lambda Expressions |
 
-| Project | Description & Tech Stack |
-| :--- | :--- |
-| **CricScore Management System** | A comprehensive digital scoreboard built using **Advanced Java OOP**. Features include real-time score tracking, player stats management, and match history. <br>🔹 *Tech:* Java, Swing GUI, File Handling, OOP Patterns. |
-| **Advanced OOP Calculator** | A fully functional scientific calculator with a modern UI. Implemented using **polymorphism and inheritance** to handle complex operations seamlessly. <br>🔹 *Tech:* Java, Swing, Event Handling. |
-| **Islamic Inheritance Calculator** | A logic-heavy application implementing fixed share logic and *Awl* cases based on Hamid Khan’s legal frameworks. <br>🔹 *Tech:* C++, Logic Algorithms. |
-| **CLI Music Player** | A lightweight, memory-efficient music player inspired by Spotify's functionality, running entirely in the terminal. <br>🔹 *Tech:* C, Data Structures. |
-
----
 
 ### 📊 GitHub Analytics
 
