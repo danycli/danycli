@@ -136,4 +136,4 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 
 </div>
 
-<p align="center"><i>Code smart. Design smart. Think clearly.</i></p>
+<p align="center"><i>Code smart. Design smart. Think clearly.</i></p> 
