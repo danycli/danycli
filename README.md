@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Expertise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-Systems_Level-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-OOP_&_Swing-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-OOP_&_Swing+Java FX-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Creative-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
