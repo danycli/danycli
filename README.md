@@ -105,10 +105,9 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 <!-- Premium Metrics -->
 <details>
 <summary><b>🏆 Achievement Showcase</b></summary>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/api?username=danycli&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies" />
+<br>
+<img src="https://github-profile-trophy-eight.vercel.app/?username=danycli&theme=darkhub&no-frame=true&margin-w=10" />
 </details>
-
 <br/>
 
 <!-- Status Indicators -->
