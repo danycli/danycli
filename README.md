@@ -3,7 +3,7 @@
 </p>
 
 <!-- DANY GitHub Profile Header -->
-
+ 
 <div align="center">
 
   <!-- Gradient Banner -->
