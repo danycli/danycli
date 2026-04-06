@@ -5,7 +5,7 @@
 <!-- DANY GitHub Profile Header --> 
  
 <div align="center">
- 
+  
   <!-- Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6&text=Hey%20There%20%F0%9F%91%8B%20I'm%20DANY&fontSize=40&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Designer&descAlign=50&descAlignY=55&descSize=20" />
 
