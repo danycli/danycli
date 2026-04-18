@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6&text=Hey%20There%20%F0%9F%91%8B%20I'm%20DANY&fontSize=40&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Designer&descAlign=50&descAlignY=55&descSize=20" /> 
 
 </div> 
- 
+  
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;C+Systems+Specialist;Creative+UI+Designer;Problem+Solver)](https://git.io/typing-svg)
