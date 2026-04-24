@@ -80,10 +80,10 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 <table>
 <tr>
 <td>
-<img src="https://gh-stats-personal.vercel.app/api?username=danycli&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=161b22&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="250" alt="GitHub Stats" />
+<img src="https://gha-stats-personal.vercel.app/api?username=danycli&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=161b22&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="250" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://gh-stats-personal.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=10&card_width=350&exclude_repo=repo1,repo2" height="100%" alt="Top Languages" />
+<img src="https://gha-stats-personal.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=10&card_width=350&exclude_repo=repo1,repo2" height="100%" alt="Top Languages" />
 </td>
 </tr>
 </table>
