@@ -12,7 +12,7 @@
 </div>   
   
 <div align="center">
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;C+Systems+Specialist;Creative+UI+Designer;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
