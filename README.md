@@ -26,18 +26,18 @@
 
 ---
 
-### ⚡ About Me
+###  About Me
 
 I am a Computer Science student with a strong command of **Object-Oriented Programming** and **System-Level Logic**. My primary focus is building robust applications using **Java** and **C**, while my creative side ensures those applications look modern and intuitive.
 
-* 💻 **Core Stack:** Proficient in Java (Swing, OOP) and C language. 
-* 🎨 **Creative Edge:** I don't just write code; I design interfaces (UI/UX) and visuals.
-* 🧠 **Mindset:** Logic-first thinker — creating efficient, modular, and scalable solutions.
-* 🌱 **Currently Learning:** Backend automation, Deployment pipelines, and Advanced Data Structures.
+*  **Core Stack:** Proficient in Java (Swing, OOP) and C language. 
+*  **Creative Edge:** I don't just write code; I design interfaces (UI/UX) and visuals.
+*  **Mindset:** Logic-first thinker — creating efficient, modular, and scalable solutions.
+*  **Currently Learning:** Backend automation, Deployment pipelines, and Advanced Data Structures.
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 **Primary Languages (The Heavy Hitters)**
 <div align="left">
@@ -55,7 +55,7 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 </div>
 
 ---
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project                               | Description & Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,9 +65,9 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 | **CricScore Management System**       | A comprehensive digital cricket scoreboard system built using advanced **Object-Oriented Java design**. Supports live score tracking, player statistics, and match history persistence with structured GUI workflow. <br>🔹 *Tech:* Java, Swing GUI, File Handling, OOP Design Patterns |
 | **Advanced OOP Calculator**           | A modern scientific calculator application implementing **inheritance and polymorphism** for scalable mathematical operation handling. Features event-driven UI logic and modular computation layers. <br>🔹 *Tech:* Java, Swing, Event Handling, OOP |
 | **Islamic Inheritance Calculator**    | A logic-intensive console application implementing fixed share distribution and complex *Awl* inheritance cases based on legal computational rules. Designed with modular structured programming and validated algorithmic edge-case handling. <br>🔹 *Tech:* C++, Algorithms, Mathematical Logic, Structured Programming |
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
-<!-- 🌟 Glass Morphism Premium Profile -->
+<!--  Glass Morphism Premium Profile -->
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 
 <!-- Premium Metrics -->
 <details>
-<summary><b>🏆 Achievement Showcase</b></summary>
+<summary><b> Achievement Showcase</b></summary>
 <br>
 <img src="https://github-profile-trophy-eight.vercel.app/?username=danycli&theme=darkhub&no-frame=true&margin-w=10" />
 </details>
