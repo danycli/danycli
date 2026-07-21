@@ -13,12 +13,12 @@
   
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;C+Systems+Specialist;Creative+UI+Designer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=470&lines=Java+Backend+Developer;Kotlin+Android+Developer;Supabase+Enthusiast;Creative+UI+Designer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Expertise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-Systems_Level-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-OOP_&_Swing+Java FX-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Kotlin_•_JavaFX_•_Supabase-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Creative-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
@@ -33,38 +33,55 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 *  **Core Stack:** Proficient in Java (Swing, OOP) and C language. 
 *  **Creative Edge:** I don't just write code; I design interfaces (UI/UX) and visuals.
 *  **Mindset:** Logic-first thinker — creating efficient, modular, and scalable solutions.
-*  **Currently Learning:** Backend automation, Deployment pipelines, and Advanced Data Structures.
+* **Currently Building:** Full-stack academic platforms using Kotlin, Java, Supabase, and modern backend architectures.
 
 ---
 
-###  Technical Arsenal
+### Technical Arsenal
 
 **Primary Languages (The Heavy Hitters)**
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,python&theme=dark" />
 </div>
 
-**Web & Design (The Creative Side)**
+**Backend • Web • Database**
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,supabase&theme=dark" />
+</div>
+
+**Android Development**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" />
+</div>
+
+**Creative Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
 </div>
 
 **Tools & Environment**
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse&theme=dark" />
 </div>
 
 ---
-##  Featured Projects
+## Featured Projects
 
-| Project                               | Description & Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Assignly Assignment Portal Client** | A production-ready Android client for COMSATS students that replaces the clunky web portal experience with a clean, mobile-first interface. Features secure authentication with encrypted credential storage, automated login, real-time assignment tracking, file download/upload handling (including ASP.NET postbacks), and intelligent UI feedback. Built with modern Android architecture and tested in real-world usage. <br>🔹 *Tech:* Kotlin, Jetpack Compose, OkHttp, Jsoup, EncryptedSharedPreferences, Material 3, Gradle |
-| **Vector Flight Arcade Game**         | A fast-paced endless flyer built using **JavaFX**, featuring dual themed gameplay realms (Heaven & Hell), modular state-driven architecture, persistent high-score tracking, and custom-rendered UI systems. Demonstrates structured game loop design, responsive input handling, and lightweight desktop game optimization without external engines. <br>🔹 *Tech:* Java, JavaFX, OOP Architecture, Game Loop Design, File Serialization |
-| **Pac-Man JavaFX Game**               | A complete arcade-style Pac-Man desktop implementation with enemy AI behaviour, diamond economy system, in-game store, smooth movement engine, persistent save management, and custom UI styling. Distributed with a ready-to-run installer for non-technical users. <br>🔹 *Tech:* Java, JavaFX, OOP, File I/O, Event Handling, Lambda Expressions |
-| **CricScore Management System**       | A comprehensive digital cricket scoreboard system built using advanced **Object-Oriented Java design**. Supports live score tracking, player statistics, and match history persistence with structured GUI workflow. <br>🔹 *Tech:* Java, Swing GUI, File Handling, OOP Design Patterns |
-| **Advanced OOP Calculator**           | A modern scientific calculator application implementing **inheritance and polymorphism** for scalable mathematical operation handling. Features event-driven UI logic and modular computation layers. <br>🔹 *Tech:* Java, Swing, Event Handling, OOP |
-| **Islamic Inheritance Calculator**    | A logic-intensive console application implementing fixed share distribution and complex *Awl* inheritance cases based on legal computational rules. Designed with modular structured programming and validated algorithmic edge-case handling. <br>🔹 *Tech:* C++, Algorithms, Mathematical Logic, Structured Programming |
+## Featured Projects
+
+| Project | Description & Tech Stack |
+| :--- | :--- |
+| **<a href="https://github.com/danycli/Assignly" target="_blank" rel="noopener noreferrer">Assignly Android Application</a>** | A modern Android application for COMSATS students that streamlines access to academic data through a clean mobile-first experience. Features secure authentication, assignment tracking, timetable access, attendance monitoring, result viewing, and smarter portal interaction. Built with a strong focus on usability, reliability, and real-world student workflow. <br>🔹 **Tech:** Kotlin, Jetpack Compose, OkHttp, Jsoup, EncryptedSharedPreferences, Material 3, Android Studio |
+| **<a href="https://github.com/danycli/GitStreakWidget">GitStreakWidget</a>** | A lightweight, customizable GitHub streak widget built to provide a cleaner and more reliable alternative for displaying contribution streaks on GitHub profile READMEs. Designed for seamless integration with extensive theme customization and optimized rendering. <br>🔹 **Tech:** JavaScript, SVG Rendering, GitHub APIs, Vercel |
+| **<a href="https://github.com/danycli/Vector-Flight" target="_blank" rel="noopener noreferrer">Vector Flight Arcade Game</a>** | A fast-paced endless flyer built using JavaFX, featuring dual themed gameplay realms, modular state-driven architecture, persistent high-score tracking, and custom-rendered UI systems. <br>🔹 **Tech:** Java, JavaFX, OOP, Game Loop Design, File Serialization |
+| **<a href="https://github.com/danycli/Pac-Man" target="_blank" rel="noopener noreferrer">Pac-Man JavaFX Game</a>** | A complete arcade-style Pac-Man desktop implementation with enemy AI, diamond economy, in-game store, smooth movement engine, persistent save management, and custom UI styling. <br>🔹 **Tech:** Java, JavaFX, OOP, File I/O, Event Handling, Lambda Expressions |
+| **<a href="https://github.com/danycli/Islamic-Inheritance-Calculator" target="_blank" rel="noopener noreferrer">Islamic Inheritance Calculator</a>** | A logic-heavy calculator implementing Islamic inheritance distribution rules, including complex Awl cases, through modular structured programming and validated algorithmic handling. <br>🔹 **Tech:** C++, Algorithms, Mathematical Logic, Structured Programming |
+
 ###  GitHub Analytics
 
 <!--  Glass Morphism Premium Profile -->
@@ -131,7 +148,7 @@ I am a Computer Science student with a strong command of **Object-Oriented Progr
 
 | **LinkedIn** | **GitHub** | **LeetCode** | **StackOverflow** | **Instagram** |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"></a> | <a href="https://github.com/SAHIBZADA-DANY"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"></a> | <a href="https://leetcode.com/u/Danial_Ahmed/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"></a> | <a href="https://stackoverflow.com/users/31141394/danycli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30"></a> | <a href="https://www.instagram.com/un_available_ds/?hl=en"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"></a> |
+| <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"></a> | <a href="https://github.com/danycli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"></a> | <a href="https://leetcode.com/u/Danial_Ahmed/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"></a> | <a href="https://stackoverflow.com/users/31141394/danycli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30"></a> | <a href="https://www.instagram.com/un_available_ds/?hl=en"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"></a> |
 
 </div>
 
