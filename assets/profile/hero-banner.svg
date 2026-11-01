@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <radialGradient id="bgGlow1" cx="15%" cy="25%" r="60%">
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="bgGlow2" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cardGlow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Linear Accents -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#0ea5e9" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.4" />
+    </linearGradient>
+
+    <linearGradient id="monogramGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+
+    <!-- Blueprint Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.75" stroke-opacity="0.25" />
+      <circle cx="40" cy="40" r="1" fill="#475569" fill-opacity="0.4" />
+    </pattern>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#64748b" fill-opacity="0.18" />
+    </pattern>
+
+    <filter id="subtleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, Helvetica, Arial, sans-serif; }
+    .title { font-weight: 800; letter-spacing: -0.03em; }
+    .tagline { font-weight: 600; letter-spacing: -0.01em; }
+    .subtext { font-weight: 400; letter-spacing: 0.02em; }
+    .badge { font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+  </style>
+
+  <!-- Deep Slate Background -->
+  <rect width="1200" height="440" rx="20" fill="#090d16" />
+  <rect width="1200" height="440" rx="20" fill="url(#grid)" />
+  <rect width="1200" height="440" rx="20" fill="url(#bgGlow1)" />
+  <rect width="1200" height="440" rx="20" fill="url(#bgGlow2)" />
+  <rect width="1198" height="438" x="1" y="1" rx="19" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Accent Details -->
+  <g transform="translate(60, 48)">
+    <!-- Terminal-like indicators -->
+    <circle cx="0" cy="0" r="4.5" fill="#ef4444" opacity="0.8" />
+    <circle cx="16" cy="0" r="4.5" fill="#f59e0b" opacity="0.8" />
+    <circle cx="32" cy="0" r="4.5" fill="#10b981" opacity="0.8" />
+    
+    <text x="56" y="4" class="mono badge" font-size="11" fill="#64748b">PORTFOLIO IDENTITY // SYS_BUILD_2026</text>
+    
+    <!-- Coordinates / Loc -->
+    <text x="1080" y="4" text-anchor="end" class="mono" font-size="11" fill="#475569">34.1688° N, 73.2215° E • PAKISTAN</text>
+  </g>
+
+  <!-- Left Content Column -->
+  <g transform="translate(60, 110)">
+    <!-- Status Pill -->
+    <rect width="280" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="14" cy="13" r="4" fill="#10b981" />
+    <circle cx="14" cy="13" r="7" fill="none" stroke="#10b981" stroke-width="1" opacity="0.5" />
+    <text x="28" y="17" class="mono badge" font-size="10.5" fill="#38bdf8">ENGINEER • DESIGNER • BUILDER</text>
+
+    <!-- Main Identity Name -->
+    <g transform="translate(0, 72)">
+      <text class="sans title" font-size="52" fill="#ffffff">Danial Ahmed</text>
+      <text x="360" y="-4" class="mono" font-size="20" font-weight="700" fill="#6366f1">[@danycli]</text>
+    </g>
+
+    <!-- Memorable Tagline -->
+    <text y="112" class="sans tagline" font-size="22" fill="url(#textGrad)">
+      Building with logic. Designing with intention.
+    </text>
+
+    <!-- Bio Statement -->
+    <text y="148" class="sans subtext" font-size="14.5" fill="#94a3b8">
+      Computer Science student exploring systems architecture, native application engineering,
+    </text>
+    <text y="170" class="sans subtext" font-size="14.5" fill="#94a3b8">
+      and modern visual design. Turning complex requirements into elegant, usable software.
+    </text>
+
+    <!-- Discipline Pillars -->
+    <g transform="translate(0, 214)">
+      <!-- Pillar 1 -->
+      <g>
+        <rect width="158" height="34" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1.2" />
+        <text x="14" y="21" class="sans" font-size="12" font-weight="600" fill="#38bdf8">⚡ Software Eng</text>
+      </g>
+      <!-- Pillar 2 -->
+      <g transform="translate(168, 0)">
+        <rect width="148" height="34" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1.2" />
+        <text x="14" y="21" class="sans" font-size="12" font-weight="600" fill="#a855f7">✦ Creative UI/UX</text>
+      </g>
+      <!-- Pillar 3 -->
+      <g transform="translate(326, 0)">
+        <rect width="170" height="34" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1.2" />
+        <text x="14" y="21" class="sans" font-size="12" font-weight="600" fill="#34d399">🧪 System Logic</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right Visual Composition (Glass Window & Architecture Card) -->
+  <g transform="translate(710, 80)" filter="url(#subtleShadow)">
+    <!-- Base Glass Card -->
+    <rect width="430" height="300" rx="16" fill="#0f172a" fill-opacity="0.92" stroke="#334155" stroke-width="1.2" />
+    <rect width="430" height="300" rx="16" fill="url(#cardGlow)" />
+    
+    <!-- Window Header -->
+    <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 414 0 C 422.84 0 430 7.16 430 16 L 430 40 L 0 40 Z" fill="#1e293b" fill-opacity="0.7" />
+    <circle cx="24" cy="20" r="4" fill="#64748b" />
+    <circle cx="38" cy="20" r="4" fill="#64748b" />
+    <circle cx="52" cy="20" r="4" fill="#64748b" />
+    <text x="80" y="24" class="mono" font-size="11" fill="#94a3b8">identity.architecture.ts</text>
+    <rect x="360" y="11" width="54" height="18" rx="4" fill="#334155" />
+    <text x="387" y="23" text-anchor="middle" class="mono badge" font-size="9" fill="#38bdf8">v2.5</text>
+
+    <!-- Code Content -->
+    <g transform="translate(24, 66)">
+      <!-- Line 1 -->
+      <text class="mono" font-size="12.5" fill="#f43f5e">interface</text>
+      <text x="75" class="mono" font-size="12.5" fill="#38bdf8">CreativeTechnologist</text>
+      <text x="245" class="mono" font-size="12.5" fill="#cbd5e1">{</text>
+
+      <!-- Line 2 -->
+      <text y="24" class="mono" font-size="12.5" fill="#64748b">  name:</text>
+      <text x="60" y="24" class="mono" font-size="12.5" fill="#a5f3fc">"Danial Ahmed"</text>
+      <text x="180" y="24" class="mono" font-size="12.5" fill="#64748b">;</text>
+
+      <!-- Line 3 -->
+      <text y="48" class="mono" font-size="12.5" fill="#64748b">  ethos:</text>
+      <text x="68" y="48" class="mono" font-size="12.5" fill="#fde047">"Logic + Intention"</text>
+      <text x="238" y="48" class="mono" font-size="12.5" fill="#64748b">;</text>
+
+      <!-- Line 4 -->
+      <text y="72" class="mono" font-size="12.5" fill="#64748b">  awards:</text>
+      <text x="82" y="72" class="mono" font-size="12.5" fill="#fbbf24">[ "Tech Fusion 1st Prize" ]</text>
+      <text x="325" y="72" class="mono" font-size="12.5" fill="#64748b">;</text>
+
+      <!-- Line 5 -->
+      <text y="96" class="mono" font-size="12.5" fill="#64748b">  focus:</text>
+      <text x="70" y="96" class="mono" font-size="12.5" fill="#cbd5e1">[</text>
+      <text x="86" y="96" class="mono" font-size="12.5" fill="#a78bfa">"Android"</text>
+      <text x="160" y="96" class="mono" font-size="12.5" fill="#64748b">, </text>
+      <text x="175" y="96" class="mono" font-size="12.5" fill="#a78bfa">"WPF/C#"</text>
+      <text x="245" y="96" class="mono" font-size="12.5" fill="#64748b">, </text>
+      <text x="260" y="96" class="mono" font-size="12.5" fill="#a78bfa">"JavaFX"</text>
+      <text x="330" y="96" class="mono" font-size="12.5" fill="#cbd5e1">];</text>
+
+      <!-- Line 6 -->
+      <text y="120" class="mono" font-size="12.5" fill="#cbd5e1">}</text>
+
+      <!-- Divider line -->
+      <line x1="0" y1="138" x2="382" y2="138" stroke="#1e293b" stroke-width="1" />
+
+      <!-- Execution snippet -->
+      <g transform="translate(0, 160)">
+        <text class="mono" font-size="12" fill="#34d399">const</text>
+        <text x="46" class="mono" font-size="12" fill="#e2e8f0">dany</text>
+        <text x="82" class="mono" font-size="12" fill="#38bdf8">=</text>
+        <text x="96" class="mono" font-size="12" fill="#38bdf8">createEngineer</text>
+        <text x="210" class="mono" font-size="12" fill="#cbd5e1">({</text>
+        <text y="22" class="mono" font-size="12" fill="#94a3b8">  drive:  </text>
+        <text x="72" y="22" class="mono" font-size="12" fill="#38bdf8">"Experiment until it works"</text>
+        <text y="42" class="mono" font-size="12" fill="#cbd5e1">});</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom Interactive Status Bar -->
+  <g transform="translate(60, 396)">
+    <line x1="0" y1="0" x2="1080" y2="0" stroke="#1e293b" stroke-width="1" />
+    <text y="22" class="mono" font-size="11" fill="#64748b">STACK // KOTLIN • C# • JAVA • C/C++ • JETPACK COMPOSE • WPF • JAVAFX • SQLITE</text>
+    <text x="1080" y="22" text-anchor="end" class="mono" font-size="11" fill="#10b981">● READY TO COLLABORATE</text>
+  </g>
+</svg>
